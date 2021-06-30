@@ -5,4 +5,4 @@
 <li>Many techniques as well as frameworks are available in Python to deal in this topic. 
 <li>In this post, we'll look at how to calculate the number of times each letter in a string appears.
 </br>
-<a href= "https://colab.research.google.com/drive/1tW65_mbGjChrtmQPAwssphPkNoZkvCfJ?authuser=4#scrollTo=eJbVTI1_W4wb"> Google Colab</a
+<a href= "https://colab.research.google.com/drive/1tW65_mbGjChrtmQPAwssphPkNoZkvCfJ?authuser=4#scrollTo=eJbVTI1_W4wb"> Google Colab Link</a
